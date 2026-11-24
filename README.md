@@ -2,19 +2,29 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+# Student Mobile App
 
-2. Start the app
+แอปพลิเคชันตัวอย่าง React Native โดยใช้ Expo Router
 
-   ```bash
-   npx expo start
-   ```
+## 1. หน้าหลัก (Home)
+
+หน้ารวมเมนูการใช้งานทั้งหมด 6 เมนู
+
+![Home](./assets/images/test.jpg)
+
+## 2. หน้า Profile
+
+หน้าแสดงข้อมูลส่วนตัว ประกอบด้วย
+- ชื่อ-นามสกุล
+- รหัสนักศึกษา
+- สาขาวิชา
+- ความสามารถ
+- ปุ่มติดต่อ
+
+![Profile](./assets/images/test1.jpg)
+
 
 In the output, you'll find options to open the app in a
 
